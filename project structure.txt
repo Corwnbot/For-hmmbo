@@ -1,0 +1,20 @@
+AutospawnerAreaPlugin/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── yourname/
+│                   └── autospawnerarea/
+│                       ├── AutospawnerAreaPlugin.java
+│                       ├── commands/
+│                       │   ├── ASACommand.java
+│                       │   ├── CreateAreaCommand.java
+│                       │   ├── EditAreaCommand.java
+│                       │   └── RemoveAreaCommand.java
+│                       ├── listeners/
+│                       │   └── AreaSelectionListener.java
+│                       └── utils/
+│                           ├── Area.java
+│                           └── AreaManager.java
+├── pom.xml
+└── src/main/resources/plugin.yml

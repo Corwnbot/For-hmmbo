@@ -1,0 +1,8 @@
+name: AutoSpawnerArea
+version: 1.0
+main: com.yourname.autospawnerarea.AutospawnerAreaPlugin
+commands:
+  asa:
+    description: Main command for AutoSpawnerArea
+    usage: /asa <subcommand>
+    aliases: [autospawnerarea]
